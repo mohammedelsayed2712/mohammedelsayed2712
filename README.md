@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on **istiqdam**
 
+- 🌱 I’m currently learning Backend Development & Software Development
+
 - 💬 Ask me about **Laravel & PHP**
  
 - 📫 How to reach me **mohammed.elsayed.ali6@gmail.com**
