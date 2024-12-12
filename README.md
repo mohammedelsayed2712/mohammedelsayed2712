@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **istiqdam**
 
-- 🌱 I’m currently learning Backend Development & Software Development
+- 🌱 I’m currently learning **Backend Development & Software Development**
 
 - 💬 Ask me about **Laravel & PHP**
  
